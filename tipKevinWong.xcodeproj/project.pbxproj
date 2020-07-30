@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		CB3BCB5B24D376790010C9C2 /* tipKevinWong.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tipKevinWong.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CB3BCB5B24D376790010C9C2 /* tipCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tipCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB3BCB5E24D376790010C9C2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CB3BCB6024D376790010C9C2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		CB3BCB6224D376790010C9C2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -89,7 +89,7 @@
 		CB3BCB5C24D376790010C9C2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CB3BCB5B24D376790010C9C2 /* tipKevinWong.app */,
+				CB3BCB5B24D376790010C9C2 /* tipCalculator.app */,
 				CB3BCB7124D3767C0010C9C2 /* tipKevinWongTests.xctest */,
 				CB3BCB7C24D3767C0010C9C2 /* tipKevinWongUITests.xctest */,
 			);
@@ -145,7 +145,7 @@
 			);
 			name = tipKevinWong;
 			productName = tipKevinWong;
-			productReference = CB3BCB5B24D376790010C9C2 /* tipKevinWong.app */;
+			productReference = CB3BCB5B24D376790010C9C2 /* tipCalculator.app */;
 			productType = "com.apple.product-type.application";
 		};
 		CB3BCB7024D3767C0010C9C2 /* tipKevinWongTests */ = {
@@ -441,7 +441,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Codepath.tipKevinWong;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = tipCalculator;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -458,7 +458,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Codepath.tipKevinWong;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = tipCalculator;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
