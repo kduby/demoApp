@@ -15,6 +15,7 @@
 		CB3BCB6B24D3767C0010C9C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB3BCB6924D3767C0010C9C2 /* LaunchScreen.storyboard */; };
 		CB3BCB7624D3767C0010C9C2 /* tipKevinWongTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB3BCB7524D3767C0010C9C2 /* tipKevinWongTests.swift */; };
 		CB3BCB8124D3767C0010C9C2 /* tipKevinWongUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB3BCB8024D3767C0010C9C2 /* tipKevinWongUITests.swift */; };
+		CB7E680D24D4D301005FAA6B /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB7E680C24D4D301005FAA6B /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CB3BCB7C24D3767C0010C9C2 /* tipKevinWongUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipKevinWongUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB3BCB8024D3767C0010C9C2 /* tipKevinWongUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipKevinWongUITests.swift; sourceTree = "<group>"; };
 		CB3BCB8224D3767C0010C9C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CB7E680C24D4D301005FAA6B /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				CB3BCB5E24D376790010C9C2 /* AppDelegate.swift */,
+				CB7E680C24D4D301005FAA6B /* SettingsViewController.swift */,
 				CB3BCB6024D376790010C9C2 /* SceneDelegate.swift */,
 				CB3BCB6224D376790010C9C2 /* ViewController.swift */,
 				CB3BCB6424D376790010C9C2 /* Main.storyboard */,
@@ -262,6 +265,7 @@
 				CB3BCB6324D376790010C9C2 /* ViewController.swift in Sources */,
 				CB3BCB5F24D376790010C9C2 /* AppDelegate.swift in Sources */,
 				CB3BCB6124D376790010C9C2 /* SceneDelegate.swift in Sources */,
+				CB7E680D24D4D301005FAA6B /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
