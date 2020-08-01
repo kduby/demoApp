@@ -4,7 +4,7 @@
 
 Submitted by: **Kevin Wong**
 
-Time spent: **5** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -33,7 +33,8 @@ GIF created with [RecordIt](https://recordit.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The hardest challenges that I encountered when making this app were implementing extra features, as I am not familiar with the syntax and usage of XCode/Swift.
+I tried to add a settings view controller that would allow me to adjust the tip amounts in segmented control, but I had trouble using "UserDefault" to transport the variables over. 
 
 ## License
 
